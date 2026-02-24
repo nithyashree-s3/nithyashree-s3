@@ -1,1 +1,2 @@
-## Hi there 👋Hi, I’m Nithya, a Computer Science student focused on building strong foundations in Java, Python, and web development, while bringing creativity into everything I do through design and dance — living multiple lives in a single lifetime because I refuse to choose just one.
+## Hi there 👋Hi, I’m Nithya,
+A Computer Science student dedicated to developing deep expertise in Web development, Java, and Python, while bringing creativity into everything I do through design and dance — living multiple lives in a single lifetime because I refuse to choose just one.
